@@ -23,7 +23,7 @@ public class Estructura {
 	    		}
 	    		else {
 	    			if(i%3==0 && i%7==0) {
-	    				System.out.println("TresTigres, ");
+	    				System.out.print("TresTigres, ");
 	    				bandera=true;
 	    			}
 	    			else {
